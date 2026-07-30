@@ -5,8 +5,10 @@ Governador Valadares
 Sao Joao do Manteninha
 Aimores
 Itueta
+Nova Modica
 Santa Rita do Itueto
 Nova Belem
+Sardoa
 Resplendor
 Cuparaque
 Itabirinha
@@ -15,6 +17,8 @@ Central de Minas
 Conselheiro Pena
 Goiabeira
 Alvarenga
+Acucena
+Jampruca
 Sao Geraldo do Baixio
 Mendes Pimentel
 Divino das Laranjeiras
